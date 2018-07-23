@@ -15,5 +15,6 @@ The code is written in JavaScript, HTML and CSS. The logic of this project, as w
 **Keywords:** Wikitude, Cordova, Google Services, JavaScript, HTML, CSS, Augmented Reality
 
 *Based on Wikitude's example demos.*
-*This is only a part of my thesis...*
+
+*This is only a part of my thesis which was finished and submitted in October of 2017...*
 
